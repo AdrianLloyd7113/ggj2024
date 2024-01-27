@@ -1,9 +1,10 @@
 # ggj2024
 
-Our submission to the 2024 Global Game Jam, built in Unity for VR. 
-
-Jam theme: "Make Me Laugh"
-Adrian Lloyd
-Jai S
-
-Game description:
+Our submission to the 2024 Global Game Jam, built in Unity for VR.   
+  
+Jam theme: "Make Me Laugh"  
+Adrian Lloyd  
+Jai S  
+  
+Game description:  
+Move from room to room to solve puzzles and escape the complex.
