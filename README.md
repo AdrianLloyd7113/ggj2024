@@ -3,6 +3,7 @@
 Our submission to the 2024 Global Game Jam, built in Unity for VR. 
 
 Jam theme: "Make Me Laugh"
+Jai S
 
 Game description:
 ...
